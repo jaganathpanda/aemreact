@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/aemreact/static/css/main.e9feee97.chunk.css",
+    "main.js": "/aemreact/static/js/main.076b711d.chunk.js",
+    "main.js.map": "/aemreact/static/js/main.076b711d.chunk.js.map",
+    "runtime-main.js": "/aemreact/static/js/runtime-main.30e67fd2.js",
+    "runtime-main.js.map": "/aemreact/static/js/runtime-main.30e67fd2.js.map",
+    "static/js/2.e468c016.chunk.js": "/aemreact/static/js/2.e468c016.chunk.js",
+    "static/js/2.e468c016.chunk.js.map": "/aemreact/static/js/2.e468c016.chunk.js.map",
+    "index.html": "/aemreact/index.html",
+    "precache-manifest.10d24c473ca0d149b3380160b2ba974a.js": "/aemreact/precache-manifest.10d24c473ca0d149b3380160b2ba974a.js",
+    "service-worker.js": "/aemreact/service-worker.js",
+    "static/css/main.e9feee97.chunk.css.map": "/aemreact/static/css/main.e9feee97.chunk.css.map",
+    "static/js/2.e468c016.chunk.js.LICENSE.txt": "/aemreact/static/js/2.e468c016.chunk.js.LICENSE.txt",
+    "static/media/icon-back.svg": "/aemreact/static/media/icon-back.19a5bdab.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30e67fd2.js",
+    "static/js/2.e468c016.chunk.js",
+    "static/css/main.e9feee97.chunk.css",
+    "static/js/main.076b711d.chunk.js"
+  ]
+}
