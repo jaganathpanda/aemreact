@@ -38,9 +38,6 @@
     "sass": "^1.86.3",
     "sinon": "^7.5.0"
   },
-  "devDependencies": {
-    "gh-pages": "^6.0.0"
-  },
   "proxy": "http://localhost:4502",
   "browserslist": [
     "defaults"
